@@ -1,0 +1,14 @@
+[
+  "tests/test_pipeline.py::test_build_splits_layouts",
+  "tests/test_pipeline.py::test_detector_forward_and_gradcam[freq]",
+  "tests/test_pipeline.py::test_detector_forward_and_gradcam[fusion]",
+  "tests/test_pipeline.py::test_detector_forward_and_gradcam[rgb]",
+  "tests/test_pipeline.py::test_log_spectrum_shape",
+  "tests/test_pipeline.py::test_no_false_watermark_and_wrong_key",
+  "tests/test_pipeline.py::test_watermark_roundtrip_and_invisibility",
+  "tests/test_pipeline.py::test_watermark_survives_attacks[brightness_1.2]",
+  "tests/test_pipeline.py::test_watermark_survives_attacks[crop_10pct]",
+  "tests/test_pipeline.py::test_watermark_survives_attacks[jpeg_q75]",
+  "tests/test_pipeline.py::test_watermark_survives_attacks[noise_s5]",
+  "tests/test_pipeline.py::test_watermark_survives_attacks[resize_0.5x]"
+]
